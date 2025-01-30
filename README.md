@@ -44,8 +44,8 @@ This is an endless runner game built using Unity. The player controls a characte
 
 ![image_alt](https://github.com/mohitchaudhary007/Endless-Runner/blob/main/Image/1.png?raw=true)
 
-![image_alt](https://github.com/mohitchaudhary007/Endless-Runner/blob/main/Image/2.png?raw=true)
-
 ![image_alt](https://github.com/mohitchaudhary007/Endless-Runner/blob/main/Image/4.png?raw=true)
+
+![image_alt](https://github.com/mohitchaudhary007/Endless-Runner/blob/main/Image/2.png?raw=true)
 
 ![image_alt](https://github.com/mohitchaudhary007/Endless-Runner/blob/main/Image/3.png?raw=true)
