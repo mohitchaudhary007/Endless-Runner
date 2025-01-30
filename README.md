@@ -1,56 +1,44 @@
-Overview
+# Endless Run - Unity Game
+
+## Overview
 
 This is an endless runner game built using Unity. The player controls a character that continuously runs through a dynamically generated environment, avoiding obstacles and collecting power-ups to maximize their score.
 
-Features
+## Features
 
-Endless Gameplay: The game continues infinitely until the player collides with an obstacle.
+*   **Endless Gameplay:** The game continues infinitely until the player collides with an obstacle.
+*   **User-Friendly Interface:** Modern and easy-to-use interface.
+*   **Dynamic Environment:** Randomly generated obstacles and terrain for a unique experience every time.
+*   **Power-ups:** Speed boosts, invincibility, and more to enhance the gameplay.
+*   **Leaderboard:** Track high scores and compete with others.
+*   **Responsive Controls:** Smooth and intuitive touch or keyboard controls.
 
-User-Friendly Interface: Modern and easy-to-use interface.
+## Tech Stack
 
-Dynamic Environment: Randomly generated obstacles and terrain for a unique experience every time.
+*   **Game Engine:** Unity
+*   **Programming Language:** C#
+*   **Graphics:** Blender (Optional for custom 3D models)
 
-Power-ups: Speed boosts, invincibility, and more to enhance the gameplay.
+## Controls
 
-Leaderboard: Track high scores and compete with others.
+*   **Arrow Keys / WASD:** Move left or right, jump, and crouch.
+*   **Spacebar:** Jump over obstacles.
+*   **Swipe (Mobile):** Swipe left, right, or up for movement.
 
-Responsive Controls: Smooth and intuitive touch or keyboard controls.
+## How to Play
 
-Tech Stack
+1.  The character starts running automatically.
+2.  Avoid obstacles by jumping or moving sideways.
+3.  Collect coins and power-ups to boost your score.
+4.  Try to survive as long as possible and set a new high score!
 
-Game Engine: Unity
+## Future Enhancements
 
-Programming Language: C#
+*   More characters and skins
+*   New power-ups and abilities
+*   Enhanced AI-based difficulty scaling
+*   Multiplayer mode
 
-Graphics: Blender (Optional for custom 3D models)
-
-Controls
-
-Arrow Keys / WASD: Move left or right, jump, and crouch.
-
-Spacebar: Jump over obstacles.
-
-Swipe (Mobile): Swipe left, right, or up for movement.
-
-How to Play
-
-The character starts running automatically.
-
-Avoid obstacles by jumping or moving sideways.
-
-Collect coins and power-ups to boost your score.
-
-Try to survive as long as possible and set a new high score!
-
-Future Enhancements
-
-More characters and skins
-
-New power-ups and abilities
-
-Enhanced AI-based difficulty scaling
-
-Multiplayer mode
 
 
 
